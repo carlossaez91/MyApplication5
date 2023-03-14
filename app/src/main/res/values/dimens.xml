@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_margin_bottom">20</dimen>
+    <dimen name="fab_margin_right">20</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+
+</resources>
